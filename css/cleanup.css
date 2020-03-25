@@ -1,6 +1,6 @@
 /* write your override styles here */
 * [class~="tag"]{
-  display: none;
+  display: none !important;
 }
 * [class~="tag"]{
   display: none;
