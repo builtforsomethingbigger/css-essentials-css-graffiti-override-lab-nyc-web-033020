@@ -1,7 +1,8 @@
 /* write your override styles here */
-* [class~="tag"]{
-  display: none !important;
-}
-* [class~="tag"]{
+#wall div,
+#wall div#tag-2,
+div#wall div#tag-3.slick.wicked,
+div#wall div#tag-4
+ {
   display: none;
 }
