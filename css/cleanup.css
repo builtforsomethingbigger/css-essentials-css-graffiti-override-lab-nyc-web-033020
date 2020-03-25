@@ -2,6 +2,6 @@
 * [class~="tag"]{
   display: none;
 }
-* [id~="tag"]{
+* [class~="tag"]{
   display: none;
 }
