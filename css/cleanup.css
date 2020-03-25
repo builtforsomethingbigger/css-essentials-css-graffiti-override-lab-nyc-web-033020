@@ -3,7 +3,7 @@
 {
   display: none;
 }
-#wall div[class="slick wicked"]
+#wall [class="slick wicked"]
 {
   display: none;
 }
