@@ -1,4 +1,4 @@
 /* write your override styles here */
-* [class~=tag]{
+* [class~="tag"]{
   display: none;
 }
